@@ -1,0 +1,21 @@
+# Group Name: Papayas
+
+# Team Members: Jalaine Pruitt
+               Caitlyn Myland
+
+
+# 12-11-2023 update
+What have you been working on?
+We have completed the "Create the Category and Subcategory DataFrames" section collectively.
+
+What do you plan to work on between now and in next class?
+Complete the remainder of the project. We have split the sections as the following:
+Create the Campaign DataFrame-Jalaine
+Create the Contacts DataFrame- Caitlyn
+Create the Crowdfunding Database-Together
+
+Any blockers, issues, question?
+We were having a few issues with figuring out some of the codes, but was able to resolve,
+
+Also, how do you feel about your progress so far?
+We are coming along well. Could be a little more ahead. We are now on the right track to finish on schedule.
